@@ -9,6 +9,7 @@ Animal animal = new Animal();
         System.out.println("Hello merge on GitHub");
         System.out.println("IDEA");
         System.out.println("GIT");
+        System.out.println("MASTER DEV");
     }
 
     public static class Animal {
