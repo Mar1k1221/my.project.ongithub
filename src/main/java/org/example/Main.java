@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 Animal animal = new Animal();
         System.out.println("Java welcome to work");
+        System.out.println("Hello merge on GitHub");
     }
 
     public static class Animal {
