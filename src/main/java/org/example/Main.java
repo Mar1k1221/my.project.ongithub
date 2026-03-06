@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 Animal animal = new Animal();
-        Syste,.out.println("Java welcome to work");
+        System.out.println("Java welcome to work");
     }
 
     public static class Animal {
