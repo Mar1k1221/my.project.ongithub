@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
+Animal animal = new Animal();
     }
 
     public static class Animal {
@@ -27,7 +27,7 @@ public class Main {
             this.age = age;
         }
 
-        public Animal(String name, int age) {
+        public Animal() {
             this.name = name;
             this.age = age;
 
